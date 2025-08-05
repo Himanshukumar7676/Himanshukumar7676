@@ -1,10 +1,24 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshukumar7676&label=Profile%20views&color=0e75b6&style=flat" alt="himanshukumar7676" /> </p>
 
+- 🌱 I’m currently learning **Android Development using Kotlin**
+
+- 👯 I’m looking to collaborate on **AI related tools and projects**
+
+- 🤝 I’m looking for help with **learning new technologies and growing in life abstractly**
+
+- 💬 Ask me about **Basic Website rendering queries and basic App dev stuff, we could talk for an hour on new technologies**
+
+- 📫 How to reach me **himanshupatel767676@gmail.com**
+
+- ⚡ Fun fact **i like weird tech gadgets and tech devices with twists**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/himanshu-kumar-766283297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-kumar-766283297" height="30" width="40" /></a>
+<a href="https://instagram.com/h1m4n5u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h1m4n5u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
